@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@200&display=swap%27');
+* {
+    font-family: Montserrat;
+    color: aliceblue;
+    background-color: rgb(100, 100, 100);
+}
+
+header {
+    background-color: rgb(49, 162, 214);
+    border: solid black 1px;
+    text-align: center;
+    color: aliceblue;
+    padding: 10px;
+}
+
+header a:visited {
+    color: aliceblue;
+}
+
+header a {
+    background-color: rgb(49, 162, 214);
+    ;
+}
+
+textarea {
+    border-radius: 3px;
+    border: 1px black solid;
+}
